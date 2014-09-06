@@ -1,0 +1,9 @@
+#!/bin/bash
+#
+# Perform necessary sass removal steps
+# after package is uninstalled.
+#
+
+echo "sass has been uninstalled!"
+
+exit 0
